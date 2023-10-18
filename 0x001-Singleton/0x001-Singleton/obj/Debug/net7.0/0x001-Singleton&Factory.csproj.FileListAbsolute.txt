@@ -1,0 +1,14 @@
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\bin\Debug\net7.0\0x001-Singleton&Factory.exe
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\bin\Debug\net7.0\0x001-Singleton&Factory.deps.json
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\bin\Debug\net7.0\0x001-Singleton&Factory.runtimeconfig.json
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\bin\Debug\net7.0\0x001-Singleton&Factory.dll
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\bin\Debug\net7.0\0x001-Singleton&Factory.pdb
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\obj\Debug\net7.0\0x001-Singleton&Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\obj\Debug\net7.0\0x001-Singleton&Factory.AssemblyInfoInputs.cache
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\obj\Debug\net7.0\0x001-Singleton&Factory.AssemblyInfo.cs
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\obj\Debug\net7.0\0x001-Singleton&Factory.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\obj\Debug\net7.0\0x001-Singleton&Factory.dll
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\obj\Debug\net7.0\refint\0x001-Singleton&Factory.dll
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\obj\Debug\net7.0\0x001-Singleton&Factory.pdb
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\obj\Debug\net7.0\0x001-Singleton&Factory.genruntimeconfig.cache
+C:\Users\zeyad\Documents\Code\0x001-Singleton&Factory\0x001-Singleton&Factory\obj\Debug\net7.0\ref\0x001-Singleton&Factory.dll

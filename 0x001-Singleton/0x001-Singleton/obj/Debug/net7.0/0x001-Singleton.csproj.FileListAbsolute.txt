@@ -1,0 +1,14 @@
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\bin\Debug\net7.0\0x001-Singleton.exe
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\bin\Debug\net7.0\0x001-Singleton.deps.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\bin\Debug\net7.0\0x001-Singleton.runtimeconfig.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\bin\Debug\net7.0\0x001-Singleton.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\bin\Debug\net7.0\0x001-Singleton.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\obj\Debug\net7.0\0x001-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\obj\Debug\net7.0\0x001-Singleton.AssemblyInfoInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\obj\Debug\net7.0\0x001-Singleton.AssemblyInfo.cs
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\obj\Debug\net7.0\0x001-Singleton.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\obj\Debug\net7.0\0x001-Singleton.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\obj\Debug\net7.0\refint\0x001-Singleton.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\obj\Debug\net7.0\0x001-Singleton.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\obj\Debug\net7.0\0x001-Singleton.genruntimeconfig.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x001-Singleton\0x001-Singleton\obj\Debug\net7.0\ref\0x001-Singleton.dll
