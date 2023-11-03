@@ -1,0 +1,14 @@
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\bin\Debug\net7.0\0x002-AbstractFactory.exe
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\bin\Debug\net7.0\0x002-AbstractFactory.deps.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\bin\Debug\net7.0\0x002-AbstractFactory.runtimeconfig.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\bin\Debug\net7.0\0x002-AbstractFactory.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\bin\Debug\net7.0\0x002-AbstractFactory.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\obj\Debug\net7.0\0x002-AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\obj\Debug\net7.0\0x002-AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\obj\Debug\net7.0\0x002-AbstractFactory.AssemblyInfo.cs
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\obj\Debug\net7.0\0x002-AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\obj\Debug\net7.0\0x002-AbstractFactory.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\obj\Debug\net7.0\refint\0x002-AbstractFactory.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\obj\Debug\net7.0\0x002-AbstractFactory.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\obj\Debug\net7.0\0x002-AbstractFactory.genruntimeconfig.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x002-AbstractFactory\0x002-AbstractFactory\obj\Debug\net7.0\ref\0x002-AbstractFactory.dll

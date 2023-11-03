@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x002-AbstractFactory\\0x002-AbstractFactory\\0x002-AbstractFactory.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x002-AbstractFactory\\0x002-AbstractFactory\\0x002-AbstractFactory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x002-AbstractFactory\\0x002-AbstractFactory\\0x002-AbstractFactory.csproj",
+        "projectName": "0x002-AbstractFactory",
+        "projectPath": "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x002-AbstractFactory\\0x002-AbstractFactory\\0x002-AbstractFactory.csproj",
+        "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x002-AbstractFactory\\0x002-AbstractFactory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

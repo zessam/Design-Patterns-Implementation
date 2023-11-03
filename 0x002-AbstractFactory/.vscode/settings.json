@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "0x002-AbstractFactory.sln",
+    "cSpell.words": [
+        "bankfactory"
+    ]
+}
