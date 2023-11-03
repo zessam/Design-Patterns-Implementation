@@ -1,0 +1,14 @@
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\bin\Debug\net7.0\0x004-FactoryAssignment.exe
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\bin\Debug\net7.0\0x004-FactoryAssignment.deps.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\bin\Debug\net7.0\0x004-FactoryAssignment.runtimeconfig.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\bin\Debug\net7.0\0x004-FactoryAssignment.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\bin\Debug\net7.0\0x004-FactoryAssignment.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\obj\Debug\net7.0\0x004-FactoryAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\obj\Debug\net7.0\0x004-FactoryAssignment.AssemblyInfoInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\obj\Debug\net7.0\0x004-FactoryAssignment.AssemblyInfo.cs
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\obj\Debug\net7.0\0x004-FactoryAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\obj\Debug\net7.0\0x004-FactoryAssignment.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\obj\Debug\net7.0\refint\0x004-FactoryAssignment.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\obj\Debug\net7.0\0x004-FactoryAssignment.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\obj\Debug\net7.0\0x004-FactoryAssignment.genruntimeconfig.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x004-FactoryAssignment\0x004-FactoryAssignment\obj\Debug\net7.0\ref\0x004-FactoryAssignment.dll
