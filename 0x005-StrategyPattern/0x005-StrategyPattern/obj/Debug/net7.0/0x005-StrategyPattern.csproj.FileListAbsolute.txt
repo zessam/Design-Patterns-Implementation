@@ -1,0 +1,14 @@
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\bin\Debug\net7.0\0x005-StrategyPattern.exe
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\bin\Debug\net7.0\0x005-StrategyPattern.deps.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\bin\Debug\net7.0\0x005-StrategyPattern.runtimeconfig.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\bin\Debug\net7.0\0x005-StrategyPattern.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\bin\Debug\net7.0\0x005-StrategyPattern.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\obj\Debug\net7.0\0x005-StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\obj\Debug\net7.0\0x005-StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\obj\Debug\net7.0\0x005-StrategyPattern.AssemblyInfo.cs
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\obj\Debug\net7.0\0x005-StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\obj\Debug\net7.0\0x005-StrategyPattern.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\obj\Debug\net7.0\refint\0x005-StrategyPattern.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\obj\Debug\net7.0\0x005-StrategyPattern.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\obj\Debug\net7.0\0x005-StrategyPattern.genruntimeconfig.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x005-StrategyPattern\0x005-StrategyPattern\obj\Debug\net7.0\ref\0x005-StrategyPattern.dll
