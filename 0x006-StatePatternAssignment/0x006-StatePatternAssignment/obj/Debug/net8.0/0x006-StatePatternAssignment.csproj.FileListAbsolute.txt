@@ -1,0 +1,15 @@
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\bin\Debug\net8.0\0x006-StatePatternAssignment.exe
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\bin\Debug\net8.0\0x006-StatePatternAssignment.deps.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\bin\Debug\net8.0\0x006-StatePatternAssignment.runtimeconfig.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\bin\Debug\net8.0\0x006-StatePatternAssignment.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\bin\Debug\net8.0\0x006-StatePatternAssignment.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\0x006-StatePatternAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\0x006-StatePatternAssignment.AssemblyInfoInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\0x006-StatePatternAssignment.AssemblyInfo.cs
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\0x006-StatePatternAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\0x006-StatePatternAssignment.sourcelink.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\0x006-StatePatternAssignment.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\refint\0x006-StatePatternAssignment.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\0x006-StatePatternAssignment.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\0x006-StatePatternAssignment.genruntimeconfig.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x006-StatePatternAssignment\0x006-StatePatternAssignment\obj\Debug\net8.0\ref\0x006-StatePatternAssignment.dll
