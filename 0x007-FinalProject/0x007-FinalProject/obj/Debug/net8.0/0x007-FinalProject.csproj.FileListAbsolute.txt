@@ -1,0 +1,15 @@
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\bin\Debug\net8.0\0x007-FinalProject.exe
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\bin\Debug\net8.0\0x007-FinalProject.deps.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\bin\Debug\net8.0\0x007-FinalProject.runtimeconfig.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\bin\Debug\net8.0\0x007-FinalProject.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\bin\Debug\net8.0\0x007-FinalProject.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\0x007-FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\0x007-FinalProject.AssemblyInfoInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\0x007-FinalProject.AssemblyInfo.cs
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\0x007-FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\0x007-FinalProject.sourcelink.json
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\0x007-FinalProject.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\refint\0x007-FinalProject.dll
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\0x007-FinalProject.pdb
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\0x007-FinalProject.genruntimeconfig.cache
+C:\Users\zeyad\Documents\Design Patterns Code\0x007-FinalProject\0x007-FinalProject\obj\Debug\net8.0\ref\0x007-FinalProject.dll

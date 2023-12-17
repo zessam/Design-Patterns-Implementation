@@ -1,0 +1,28 @@
+C:\Users\zeyad\Documents\DEs\bin\Debug\net8.0-windows\DEs.exe
+C:\Users\zeyad\Documents\DEs\bin\Debug\net8.0-windows\DEs.deps.json
+C:\Users\zeyad\Documents\DEs\bin\Debug\net8.0-windows\DEs.runtimeconfig.json
+C:\Users\zeyad\Documents\DEs\bin\Debug\net8.0-windows\DEs.dll
+C:\Users\zeyad\Documents\DEs\bin\Debug\net8.0-windows\DEs.pdb
+C:\Users\zeyad\Documents\DEs\obj\Debug\net8.0-windows\DEs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\Documents\DEs\obj\Debug\net8.0-windows\DEs.AssemblyInfoInputs.cache
+C:\Users\zeyad\Documents\DEs\obj\Debug\net8.0-windows\DEs.AssemblyInfo.cs
+C:\Users\zeyad\Documents\DEs\obj\Debug\net8.0-windows\DEs.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\Documents\DEs\obj\Debug\net8.0-windows\DEs.dll
+C:\Users\zeyad\Documents\DEs\obj\Debug\net8.0-windows\refint\DEs.dll
+C:\Users\zeyad\Documents\DEs\obj\Debug\net8.0-windows\DEs.pdb
+C:\Users\zeyad\Documents\DEs\obj\Debug\net8.0-windows\DEs.genruntimeconfig.cache
+C:\Users\zeyad\Documents\DEs\obj\Debug\net8.0-windows\ref\DEs.dll
+C:\Users\zeyad\Documents\Design Patterns Project\bin\Debug\net8.0-windows\DEs.exe
+C:\Users\zeyad\Documents\Design Patterns Project\bin\Debug\net8.0-windows\DEs.deps.json
+C:\Users\zeyad\Documents\Design Patterns Project\bin\Debug\net8.0-windows\DEs.runtimeconfig.json
+C:\Users\zeyad\Documents\Design Patterns Project\bin\Debug\net8.0-windows\DEs.dll
+C:\Users\zeyad\Documents\Design Patterns Project\bin\Debug\net8.0-windows\DEs.pdb
+C:\Users\zeyad\Documents\Design Patterns Project\obj\Debug\net8.0-windows\DEs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\Documents\Design Patterns Project\obj\Debug\net8.0-windows\DEs.AssemblyInfoInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Project\obj\Debug\net8.0-windows\DEs.AssemblyInfo.cs
+C:\Users\zeyad\Documents\Design Patterns Project\obj\Debug\net8.0-windows\DEs.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\Documents\Design Patterns Project\obj\Debug\net8.0-windows\DEs.dll
+C:\Users\zeyad\Documents\Design Patterns Project\obj\Debug\net8.0-windows\refint\DEs.dll
+C:\Users\zeyad\Documents\Design Patterns Project\obj\Debug\net8.0-windows\DEs.pdb
+C:\Users\zeyad\Documents\Design Patterns Project\obj\Debug\net8.0-windows\DEs.genruntimeconfig.cache
+C:\Users\zeyad\Documents\Design Patterns Project\obj\Debug\net8.0-windows\ref\DEs.dll
