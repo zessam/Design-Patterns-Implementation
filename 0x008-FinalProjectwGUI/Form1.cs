@@ -17,7 +17,7 @@ namespace DesignPatternProject
             var quickSort = new QuickSort();
             var mergeSort = new MergeSort();
 
-            // Create a context with the initial strategy (e.g., Bubble Sort)
+            // Create a context with the initial strategy 
             sortContext = new SortContext(bubbleSort);
 
             // Display the original array
