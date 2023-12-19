@@ -6,6 +6,7 @@ public class QuickSort : ISortStrategy
         QuickSortRecursive(array, 0, array.Length - 1);
     }
 
+    // Ahmed Helmy :)
     private void QuickSortRecursive(int[] array, int low, int high)
     {
         if (low < high)

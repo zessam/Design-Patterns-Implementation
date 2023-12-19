@@ -8,13 +8,13 @@ public class SortContext
         _sortStrategy = sortStrategy;
     }
 
-    // Method to change the strategy at runtime
+    // Function to change the strategy at runtime
     public void SetSortStrategy(ISortStrategy sortStrategy)
     {
         _sortStrategy = sortStrategy;
     }
 
-    // Method that uses the current strategy to perform sorting
+    // Function that uses the current strategy to perform sorting
     public void SortArray(int[] array)
     {
         _sortStrategy.Sort(array);

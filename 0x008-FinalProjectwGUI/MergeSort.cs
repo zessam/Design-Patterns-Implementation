@@ -6,6 +6,8 @@ public class MergeSort : ISortStrategy
         MergeSortRecursive(array, 0, array.Length - 1);
     }
 
+
+    // Ahmed Helmy :)
     private void MergeSortRecursive(int[] array, int left, int right)
     {
         if (left < right)

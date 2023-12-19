@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zeyad\\Documents\\Design Patterns Project\\DEs.csproj": {}
+    "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x008-FinalProjectwGUI\\DEs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zeyad\\Documents\\Design Patterns Project\\DEs.csproj": {
+    "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x008-FinalProjectwGUI\\DEs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zeyad\\Documents\\Design Patterns Project\\DEs.csproj",
+        "projectUniqueName": "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x008-FinalProjectwGUI\\DEs.csproj",
         "projectName": "DEs",
-        "projectPath": "C:\\Users\\zeyad\\Documents\\Design Patterns Project\\DEs.csproj",
+        "projectPath": "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x008-FinalProjectwGUI\\DEs.csproj",
         "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zeyad\\Documents\\Design Patterns Project\\obj\\",
+        "outputPath": "C:\\Users\\zeyad\\Documents\\Design Patterns Code\\0x008-FinalProjectwGUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config"
